@@ -10,7 +10,8 @@ With 'c' you can switch the camera between 2D and 3D.
 
 Start the application using Processing (Download: https://processing.org/download/).
 
+2D perspective
 ![Alt text](/Screenshot1.png?raw=true)
 
-As we can see, the optimal path changes completely in the second example even though we only added one wall.
+3D perspective
 ![Alt text](/Screenshot2.png?raw=true)
