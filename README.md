@@ -1,5 +1,5 @@
 # Conway's Game of Life
-Implementation of Conway's Game of Life (https://en.wikipedia.org/wiki/Game_of_Life),
+Implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Game_of_Life),
 done in 'Processing' (Java framework).  
 
 Bring dead cells to life and vice versa with the left mouse button.\
@@ -14,4 +14,4 @@ Bring dead cells to life and vice versa with the left mouse button.\
 ![Alt text](/Screenshot2.png?raw=true)
 
 ## Requirements
-Start the application using Processing (Download: https://processing.org/download/).
+Start the application using [Processing](https://processing.org/download/).
